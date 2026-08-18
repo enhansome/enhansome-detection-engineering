@@ -76,7 +76,7 @@
             "last_commit": "2026-08-15T02:01:40Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10897
+            "stars": 10901
           }
         },
         {
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T08:54:04Z",
+            "last_commit": "2026-08-18T11:17:23Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2686
+            "stars": 2688
           }
         },
         {
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:30:14Z",
+            "last_commit": "2026-08-18T10:48:33Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1673
+            "stars": 1672
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-08-17T10:07:33Z",
+            "last_commit": "2026-08-18T10:07:49Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1473
+            "stars": 1474
           }
         },
         {
@@ -143,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-08-17T10:07:33Z",
+            "last_commit": "2026-08-18T10:07:49Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1473
+            "stars": 1474
           }
         },
         {
@@ -157,10 +157,10 @@
           "repo_info": {
             "archived": false,
             "language": "YARA",
-            "last_commit": "2026-08-17T10:07:33Z",
+            "last_commit": "2026-08-18T10:07:49Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1473
+            "stars": 1474
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-07T08:14:15Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:19:27Z",
+            "last_commit": "2026-08-18T08:46:43Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 371
@@ -345,10 +345,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-17T04:40:23Z",
+            "last_commit": "2026-08-18T04:34:17Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2797
+            "stars": 2798
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1888
+            "stars": 1889
           }
         },
         {
@@ -387,10 +387,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T04:56:03Z",
+            "last_commit": "2026-08-17T21:01:14Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2026-08-12T08:19:38Z",
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -415,7 +415,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-06T13:20:13Z",
+            "last_commit": "2026-08-18T11:40:59Z",
             "owner": "ExabeamLabs",
             "repo": "CIMLibrary",
             "stars": 12
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:45:17.312Z",
+    "last_updated": "2026-08-18T11:45:19.425Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
     "enhanced_repository": "enhansome/enhansome-detection-engineering",
