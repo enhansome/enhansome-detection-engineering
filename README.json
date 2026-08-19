@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10905
+            "stars": 10906
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-19T11:29:48Z",
+            "last_commit": "2026-08-19T12:18:57Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2689
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-19T09:17:29Z",
+            "last_commit": "2026-08-19T12:05:24Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1675
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:44:59.716Z",
+    "last_updated": "2026-08-19T12:28:19.399Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
