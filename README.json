@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10906
+            "stars": 10915
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-19T12:18:57Z",
+            "last_commit": "2026-08-20T09:48:59Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2689
+            "stars": 2690
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-19T12:05:24Z",
+            "last_commit": "2026-08-20T08:17:03Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1675
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 495971687,
             "language": "YARA",
-            "last_commit": "2026-08-19T10:09:37Z",
+            "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1475
+            "stars": 1477
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 495971687,
             "language": "YARA",
-            "last_commit": "2026-08-19T10:09:37Z",
+            "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1475
+            "stars": 1477
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 495971687,
             "language": "YARA",
-            "last_commit": "2026-08-19T10:09:37Z",
+            "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1475
+            "stars": 1477
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-06T21:02:46Z",
             "owner": "chronicle",
             "repo": "detection-rules",
-            "stars": 513
+            "stars": 514
           }
         },
         {
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 215863078,
             "language": "Python",
-            "last_commit": "2026-08-07T08:14:15Z",
+            "last_commit": "2026-08-19T14:56:22Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 462
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:02:54Z",
+            "last_commit": "2026-08-20T07:03:29Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 371
@@ -369,7 +369,7 @@
             "archived": false,
             "id": 60705895,
             "language": null,
-            "last_commit": "2026-08-19T04:35:15Z",
+            "last_commit": "2026-08-20T04:35:57Z",
             "owner": "logpai",
             "repo": "loghub",
             "stars": 2799
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:19.399Z",
+    "last_updated": "2026-08-20T11:47:22.802Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
