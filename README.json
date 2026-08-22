@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10920
+            "stars": 10928
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-21T10:26:41Z",
+            "last_commit": "2026-08-21T23:47:13Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2691
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-21T10:21:27Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1675
+            "stars": 1676
           }
         },
         {
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 215863078,
             "language": "Python",
-            "last_commit": "2026-08-19T14:56:22Z",
+            "last_commit": "2026-08-21T16:44:03Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 463
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T07:06:34Z",
+            "last_commit": "2026-08-22T06:59:33Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 372
@@ -357,7 +357,7 @@
             "last_commit": "2024-08-07T06:30:10Z",
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7987
+            "stars": 7986
           }
         },
         {
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60705895,
             "language": null,
-            "last_commit": "2026-08-21T04:36:35Z",
+            "last_commit": "2026-08-22T04:31:17Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2801
+            "stars": 2800
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1890
+            "stars": 1892
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-12T08:19:38Z",
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:46:52.979Z",
+    "last_updated": "2026-08-22T11:40:03.867Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
