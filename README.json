@@ -96,7 +96,7 @@
             "last_commit": "2026-08-21T23:47:13Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2691
+            "stars": 2692
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1479
+            "stars": 1481
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1479
+            "stars": 1481
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1479
+            "stars": 1481
           }
         },
         {
@@ -228,10 +228,10 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T06:59:33Z",
+            "last_commit": "2026-08-23T10:06:58Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 372
+            "stars": 373
           }
         },
         {
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 1096888045,
             "language": "Python",
-            "last_commit": "2026-08-16T08:19:52Z",
+            "last_commit": "2026-08-23T03:51:46Z",
             "owner": "Khadinxc",
             "repo": "Sigma2KQL",
             "stars": 6
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 1097373255,
             "language": "HCL",
-            "last_commit": "2026-08-16T08:20:34Z",
+            "last_commit": "2026-08-23T04:20:04Z",
             "owner": "Khadinxc",
             "repo": "TerraSigma",
             "stars": 5
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60705895,
             "language": null,
-            "last_commit": "2026-08-22T04:31:17Z",
+            "last_commit": "2026-08-23T04:35:37Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2800
+            "stars": 2801
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1892
+            "stars": 1894
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-18T20:10:52Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 454
+            "stars": 455
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2023-09-02T23:27:00Z",
             "owner": "jatrost",
             "repo": "awesome-kubernetes-threat-detection",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:40:03.867Z",
+    "last_updated": "2026-08-23T11:40:34.884Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
