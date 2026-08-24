@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10928
+            "stars": 10933
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-21T23:47:13Z",
+            "last_commit": "2026-08-24T11:26:13Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2692
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-21T10:21:27Z",
+            "last_commit": "2026-08-24T11:05:39Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1676
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-21T16:44:03Z",
             "owner": "panther-labs",
             "repo": "panther-analysis",
-            "stars": 463
+            "stars": 464
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T10:06:58Z",
+            "last_commit": "2026-08-24T10:23:10Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 373
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-20T21:50:57Z",
             "owner": "timescale",
             "repo": "rsigma",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60705895,
             "language": null,
-            "last_commit": "2026-08-23T04:35:37Z",
+            "last_commit": "2026-08-24T04:42:39Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2801
+            "stars": 2802
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1894
+            "stars": 1897
           }
         },
         {
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 1146898804,
             "language": "Rust",
-            "last_commit": "2026-08-18T20:10:52Z",
+            "last_commit": "2026-08-24T04:55:20Z",
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 455
@@ -483,7 +483,7 @@
             "last_commit": "2024-02-05T14:04:04Z",
             "owner": "0x4D31",
             "repo": "detection-and-response-pipeline",
-            "stars": 297
+            "stars": 298
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:40:34.884Z",
+    "last_updated": "2026-08-24T11:48:18.744Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
