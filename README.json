@@ -93,7 +93,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-24T11:26:13Z",
+            "last_commit": "2026-08-24T14:02:09Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2692
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-24T11:05:39Z",
+            "last_commit": "2026-08-24T13:40:46Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1676
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:48:18.744Z",
+    "last_updated": "2026-08-24T14:10:51.114Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",

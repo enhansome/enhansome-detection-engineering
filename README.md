@@ -2,7 +2,7 @@
 
 Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.
 
-All contributions are welcome, please carefully review the [contributing guidelines](https://github.com/infosecB/awesome-detection-engineering/blob/main/contributing.md) ⭐ 1,324 | 🐛 8 | 📅 2026-08-03 prior to submitting a pull request.
+All contributions are welcome, please carefully review the [contributing guidelines](https://github.com/infosecB/awesome-detection-engineering/blob/main/contributing.md) ⭐ 1,325 | 🐛 8 | 📅 2026-08-03 prior to submitting a pull request.
 
 ## Contents
 
@@ -35,17 +35,17 @@ All contributions are welcome, please carefully review the [contributing guideli
 
 ## Detection Content & Signatures
 
-* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 10,933 | 🐛 199 | 🌐 Python | 📅 2026-08-18 - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
-* [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,692 | 🐛 258 | 🌐 Python | 📅 2026-08-24 - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
+* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 10,933 | 🐛 197 | 🌐 Python | 📅 2026-08-18 - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
+* [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,692 | 🐛 252 | 🌐 Python | 📅 2026-08-24 - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
 * [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) ⭐ 1,732 | 🐛 0 | 🌐 Python | 📅 2026-07-23 - A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.
-* [Splunk Security Content](https://github.com/splunk/security_content) ⭐ 1,676 | 🐛 19 | 🌐 Python | 📅 2026-08-24 - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
+* [Splunk Security Content](https://github.com/splunk/security_content) ⭐ 1,676 | 🐛 12 | 🌐 Python | 📅 2026-08-24 - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 * [Elastic Endpoint Behavioral Rules](https://github.com/elastic/protections-artifacts/tree/main/behavior/rules) ⭐ 1,481 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's endpoint behavioral (prevention) rules written in EQL, natively for the Elastic endpoint agent.
 * [Elastic Yara Signatures](https://github.com/elastic/protections-artifacts/tree/main/yara/rules) ⭐ 1,481 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's YARA signatures, which run on the Elastic endpoint agent.
 * [Elastic Endpoint Ransomware Artifact](https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua) ⭐ 1,481 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's ranswomware artifact, which runs on the Elastic endpoint agent.
 * [Chronicle (GCP) Detection Rules](https://github.com/chronicle/detection-rules) ⭐ 514 | 🐛 13 | 🌐 Python | 📅 2026-08-06 - Chronicle's detection rules written natively for the the Chronicle Platform.
 * [Panther Labs Detection Rules](https://github.com/panther-labs/panther-analysis/tree/main/rules) ⭐ 464 | 🐛 11 | 🌐 Python | 📅 2026-08-21 - Panther Lab's native detection rules.
 * [Center for Threat Informed Defense Security Stack Mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) ⚠️ Archived - Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mapings to the MITRE ATT\&CK framework.
-* [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) ⭐ 373 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-24 - An open MIT detection-rule standard for AI-agent and MCP attacks (prompt injection, tool poisoning, context exfiltration), like Sigma or YARA for the agent layer, with OWASP LLM/Agentic and MITRE ATLAS mappings on each rule.
+* [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) ⭐ 373 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-24 - An open MIT detection-rule standard for AI-agent and MCP attacks (prompt injection, tool poisoning, context exfiltration), like Sigma or YARA for the agent layer, with OWASP LLM/Agentic and MITRE ATLAS mappings on each rule.
 * [Google Cloud Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) ⚠️ Archived - This repository serves as a community-driven list of sample security analytics for auditing cloud usage and for detecting threats to your data & workloads in Google Cloud.
 * [RSigma | Timescale](https://github.com/timescale/rsigma) ⭐ 134 | 🐛 33 | 🌐 Rust | 📅 2026-08-20 - A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.
 * [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory) ⭐ 119 | 🐛 0 | 📅 2026-03-31 - Anvilogic's opensource and publicly available detection content.
