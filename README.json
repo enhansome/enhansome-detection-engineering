@@ -15,7 +15,7 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 897
+            "stars": 898
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10933
+            "stars": 10937
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-24T14:02:09Z",
+            "last_commit": "2026-08-24T20:56:24Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2692
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60705895,
             "language": null,
-            "last_commit": "2026-08-24T04:42:39Z",
+            "last_commit": "2026-08-25T04:37:35Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2802
+            "stars": 2803
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1897
+            "stars": 1898
           }
         },
         {
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 1146898804,
             "language": "Rust",
-            "last_commit": "2026-08-24T04:55:20Z",
+            "last_commit": "2026-08-24T20:58:27Z",
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 455
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:51.114Z",
+    "last_updated": "2026-08-25T06:07:29.651Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
