@@ -57,7 +57,7 @@
             "archived": false,
             "id": 1253118396,
             "language": "HTML",
-            "last_commit": "2026-08-14T14:08:01Z",
+            "last_commit": "2026-08-25T09:13:15Z",
             "owner": "anpa1200",
             "repo": "adversarygraph",
             "stars": 27
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10937
+            "stars": 10939
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-24T20:56:24Z",
+            "last_commit": "2026-08-25T11:37:26Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2692
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1481
+            "stars": 1482
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1481
+            "stars": 1482
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1481
+            "stars": 1482
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:23:10Z",
+            "last_commit": "2026-08-25T07:08:11Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 373
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-20T21:50:57Z",
             "owner": "timescale",
             "repo": "rsigma",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-25T04:37:35Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2803
+            "stars": 2804
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1898
+            "stars": 1899
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-24T20:58:27Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 455
+            "stars": 456
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:29.651Z",
+    "last_updated": "2026-08-25T11:48:57.257Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",

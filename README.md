@@ -2,7 +2,7 @@
 
 Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.
 
-All contributions are welcome, please carefully review the [contributing guidelines](https://github.com/infosecB/awesome-detection-engineering/blob/main/contributing.md) ⭐ 1,327 | 🐛 8 | 📅 2026-08-03 prior to submitting a pull request.
+All contributions are welcome, please carefully review the [contributing guidelines](https://github.com/infosecB/awesome-detection-engineering/blob/main/contributing.md) ⭐ 1,328 | 🐛 8 | 📅 2026-08-03 prior to submitting a pull request.
 
 ## Contents
 
@@ -16,7 +16,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 * [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework) ⭐ 898 | 🐛 3 | 📅 2025-09-08 - A blueprint for creating and documenting effective detection content.
 * [Synthetic Adversarial Log Objects (SALO) | Splunk](https://github.com/splunk/salo) ⭐ 92 | 🐛 2 | 🌐 Python | 📅 2024-01-11 - Synthetic Adversarial Log Objects (SALO) is a framework for the generation of log events without the need for infrastructure or actions to initiate the event that causes a log event.
 * [ZettelForge](https://github.com/rolandpg/zettelforge) ⭐ 58 | 🐛 13 | 🌐 Python | 📅 2026-08-13 - Agentic memory system that treats Sigma and YARA rules as first-class memory entities, with an LLM rule explainer, STIX 2.1 knowledge graph of CTI entities, and offline-first RAG to connect rules to the actors and techniques they detect. Python, MIT.
-* [ThreatMapper | Andrey Pautov](https://github.com/anpa1200/threatmapper) ⭐ 27 | 🐛 1 | 🌐 HTML | 📅 2026-08-14 - CTI-to-detection workbench for mapping threat reports to ATT\&CK, comparing TTP overlap with groups and campaigns, identifying detection gaps, and exporting analyst-ready outputs.
+* [ThreatMapper | Andrey Pautov](https://github.com/anpa1200/threatmapper) ⭐ 27 | 🐛 1 | 🌐 HTML | 📅 2026-08-25 - CTI-to-detection workbench for mapping threat reports to ATT\&CK, comparing TTP overlap with groups and campaigns, identifying detection gaps, and exporting analyst-ready outputs.
 * [MITRE ATT\&CK](https://attack.mitre.org/) - The foundational framework of adversary tactics, techniques, and procedures based on real-world observations.
 * [Detection Engineering Maturity Matrix | Kyle Bailey](https://detectionengineering.io) - A detailed matrix that serves as a tool to measure the overall maturity of an organization's Detection Engineering program.
 * [Detection Maturity Level (DML) Model | Ryan Stillions](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html) - Defines and describes 8 different levels of an organization's threat detection program maturity.
@@ -35,19 +35,19 @@ All contributions are welcome, please carefully review the [contributing guideli
 
 ## Detection Content & Signatures
 
-* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 10,937 | 🐛 199 | 🌐 Python | 📅 2026-08-18 - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
-* [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,692 | 🐛 248 | 🌐 Python | 📅 2026-08-24 - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
+* [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 10,939 | 🐛 199 | 🌐 Python | 📅 2026-08-18 - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
+* [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,692 | 🐛 250 | 🌐 Python | 📅 2026-08-25 - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
 * [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) ⭐ 1,732 | 🐛 0 | 🌐 Python | 📅 2026-07-23 - A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.
 * [Splunk Security Content](https://github.com/splunk/security_content) ⭐ 1,676 | 🐛 12 | 🌐 Python | 📅 2026-08-24 - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
-* [Elastic Endpoint Behavioral Rules](https://github.com/elastic/protections-artifacts/tree/main/behavior/rules) ⭐ 1,481 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's endpoint behavioral (prevention) rules written in EQL, natively for the Elastic endpoint agent.
-* [Elastic Yara Signatures](https://github.com/elastic/protections-artifacts/tree/main/yara/rules) ⭐ 1,481 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's YARA signatures, which run on the Elastic endpoint agent.
-* [Elastic Endpoint Ransomware Artifact](https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua) ⭐ 1,481 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's ranswomware artifact, which runs on the Elastic endpoint agent.
+* [Elastic Endpoint Behavioral Rules](https://github.com/elastic/protections-artifacts/tree/main/behavior/rules) ⭐ 1,482 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's endpoint behavioral (prevention) rules written in EQL, natively for the Elastic endpoint agent.
+* [Elastic Yara Signatures](https://github.com/elastic/protections-artifacts/tree/main/yara/rules) ⭐ 1,482 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's YARA signatures, which run on the Elastic endpoint agent.
+* [Elastic Endpoint Ransomware Artifact](https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua) ⭐ 1,482 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's ranswomware artifact, which runs on the Elastic endpoint agent.
 * [Chronicle (GCP) Detection Rules](https://github.com/chronicle/detection-rules) ⭐ 514 | 🐛 13 | 🌐 Python | 📅 2026-08-06 - Chronicle's detection rules written natively for the the Chronicle Platform.
 * [Panther Labs Detection Rules](https://github.com/panther-labs/panther-analysis/tree/main/rules) ⭐ 464 | 🐛 11 | 🌐 Python | 📅 2026-08-21 - Panther Lab's native detection rules.
 * [Center for Threat Informed Defense Security Stack Mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) ⚠️ Archived - Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mapings to the MITRE ATT\&CK framework.
-* [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) ⭐ 373 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-24 - An open MIT detection-rule standard for AI-agent and MCP attacks (prompt injection, tool poisoning, context exfiltration), like Sigma or YARA for the agent layer, with OWASP LLM/Agentic and MITRE ATLAS mappings on each rule.
+* [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) ⭐ 373 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-25 - An open MIT detection-rule standard for AI-agent and MCP attacks (prompt injection, tool poisoning, context exfiltration), like Sigma or YARA for the agent layer, with OWASP LLM/Agentic and MITRE ATLAS mappings on each rule.
 * [Google Cloud Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) ⚠️ Archived - This repository serves as a community-driven list of sample security analytics for auditing cloud usage and for detecting threats to your data & workloads in Google Cloud.
-* [RSigma | Timescale](https://github.com/timescale/rsigma) ⭐ 134 | 🐛 33 | 🌐 Rust | 📅 2026-08-20 - A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.
+* [RSigma | Timescale](https://github.com/timescale/rsigma) ⭐ 135 | 🐛 33 | 🌐 Rust | 📅 2026-08-20 - A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.
 * [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory) ⭐ 119 | 🐛 0 | 📅 2026-03-31 - Anvilogic's opensource and publicly available detection content.
 * [Detection Engineering with Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk) ⭐ 69 | 🐛 0 | 📅 2026-07-02 - A GitHub repo dedicated to sharing detection analytics in SPL.
 * [Exabeam Content Library](https://github.com/ExabeamLabs/Content-Library-CIM2) ⭐ 33 | 🐛 2 | 📅 2026-06-16 - Exabeam's out of the box detection content compatible with the Exabeam Common Information Model.
@@ -66,10 +66,10 @@ All contributions are welcome, please carefully review the [contributing guideli
 ## Logging, Monitoring & Data Sources
 
 * [Elastalert | Yelp](https://github.com/YelpArchive/elastalert) ⭐ 7,986 | 🐛 1,401 | 🌐 Python | 📅 2024-08-07 - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
-* [Loghub](https://github.com/logpai/loghub) ⭐ 2,803 | 🐛 2 | 📅 2026-08-25 - Opensource and freely available security data sources for research and testing.
-* [Linux auditd Detection Ruleset](https://github.com/Neo23x0/auditd/blob/master/audit.rules) ⭐ 1,898 | 🐛 18 | 🌐 Shell | 📅 2026-05-04 - Linux auditd ruleset that produces telemetry required for threat detection use cases.
+* [Loghub](https://github.com/logpai/loghub) ⭐ 2,804 | 🐛 2 | 📅 2026-08-25 - Opensource and freely available security data sources for research and testing.
+* [Linux auditd Detection Ruleset](https://github.com/Neo23x0/auditd/blob/master/audit.rules) ⭐ 1,899 | 🐛 18 | 🌐 Shell | 📅 2026-05-04 - Linux auditd ruleset that produces telemetry required for threat detection use cases.
 * [Matano](https://github.com/matanolabs/matano) ⭐ 1,694 | 🐛 55 | 🌐 Rust | 📅 2025-01-08 - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
-* [Rustinel | Karib0u](https://github.com/Karib0u/rustinel) ⭐ 455 | 🐛 34 | 🌐 Rust | 📅 2026-08-24 - Open-source endpoint detection engine for Windows and Linux that collects ETW/eBPF telemetry and evaluates Sigma, YARA, and IOC detections.
+* [Rustinel | Karib0u](https://github.com/Karib0u/rustinel) ⭐ 456 | 🐛 35 | 🌐 Rust | 📅 2026-08-24 - Open-source endpoint detection engine for Windows and Linux that collects ETW/eBPF telemetry and evaluates Sigma, YARA, and IOC detections.
 * [SOCTalk](https://github.com/soctalk/soctalk) ⭐ 80 | 🐛 35 | 🌐 Python | 📅 2026-08-12 - Open source, LLM driven SOC automation platform for MSPs and MSSPs built on Wazuh. Triages, investigates, and escalates alerts through a two tier AI pipeline with human in the loop review, multi tenant isolation, and a no code triage policy editor backed by deterministic execution. Apache 2.0.
 * [Exabeam Common Information Model](https://github.com/ExabeamLabs/CIMLibrary) ⭐ 12 | 🐛 1 | 📅 2026-08-18 - Exabeam's proprietary model used as a framework for normalizing security data.
 * [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets) - Multiple cheatsheets outlined recommendations for Windows Event logging at various levels of granularity.
