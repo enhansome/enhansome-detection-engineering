@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10939
+            "stars": 10941
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-25T11:37:26Z",
+            "last_commit": "2026-08-26T10:34:02Z",
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2692
+            "stars": 2693
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-24T13:40:46Z",
+            "last_commit": "2026-08-26T07:13:09Z",
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1676
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-06T21:02:46Z",
             "owner": "chronicle",
             "repo": "detection-rules",
-            "stars": 514
+            "stars": 513
           }
         },
         {
@@ -228,10 +228,10 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:08:11Z",
+            "last_commit": "2026-08-26T10:27:36Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 373
+            "stars": 375
           }
         },
         {
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60705895,
             "language": null,
-            "last_commit": "2026-08-25T04:37:35Z",
+            "last_commit": "2026-08-26T04:38:05Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2804
+            "stars": 2806
           }
         },
         {
@@ -414,10 +414,10 @@
             "archived": false,
             "id": 1146898804,
             "language": "Rust",
-            "last_commit": "2026-08-24T20:58:27Z",
+            "last_commit": "2026-08-25T20:12:13Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 456
+            "stars": 457
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-12T08:19:38Z",
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:48:57.257Z",
+    "last_updated": "2026-08-26T11:50:48.509Z",
     "original_repository": "infosecB/awesome-detection-engineering",
     "original_repository_id": 298706027,
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
