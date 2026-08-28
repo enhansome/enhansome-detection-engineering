@@ -15,8 +15,9 @@
             "last_commit": "2025-09-08T18:00:25Z",
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 900
-          }
+            "stars": 902
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "splunk",
             "repo": "salo",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ThreatRecall",
             "repo": "zettelforge",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "anpa1200",
             "repo": "adversarygraph",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         }
       ],
       "title": "Concepts & Frameworks"
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10949
-          }
+            "stars": 10956
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-27T18:56:59Z",
+            "last_commit": "2026-08-28T17:22:54Z",
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2695
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
             "stars": 1732
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 162346001,
             "language": "Python",
-            "last_commit": "2026-08-27T10:08:43Z",
+            "last_commit": "2026-08-28T12:01:45Z",
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1679
-          }
+            "stars": 1678
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1482
-          }
+            "stars": 1484
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1482
-          }
+            "stars": 1484
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-08-20T10:09:02Z",
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1482
-          }
+            "stars": 1484
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "chronicle",
             "repo": "detection-rules",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "panther-labs",
             "repo": "panther-analysis",
             "stars": 464
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "center-for-threat-informed-defense",
             "repo": "security-stack-mappings",
             "stars": 388
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 1176619039,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:45:23Z",
+            "last_commit": "2026-08-28T18:43:18Z",
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "security-analytics",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -258,11 +274,12 @@
             "archived": false,
             "id": 1154854390,
             "language": "Rust",
-            "last_commit": "2026-08-20T21:50:57Z",
+            "last_commit": "2026-08-27T21:50:25Z",
             "owner": "timescale",
             "repo": "rsigma",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "anvilogic-forge",
             "repo": "armory",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "west-wind",
             "repo": "Threat-Hunting-With-Splunk",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "ExabeamLabs",
             "repo": "Content-Library-CIM2",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "Khadinxc",
             "repo": "Sigma2KQL",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Khadinxc",
             "repo": "TerraSigma",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         }
       ],
       "title": "Detection Content & Signatures"
@@ -358,7 +380,8 @@
             "owner": "YelpArchive",
             "repo": "elastalert",
             "stars": 7987
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -369,11 +392,12 @@
             "archived": false,
             "id": 60705895,
             "language": null,
-            "last_commit": "2026-08-27T15:00:19Z",
+            "last_commit": "2026-08-28T15:55:46Z",
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2810
-          }
+            "stars": 2811
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -387,8 +411,9 @@
             "last_commit": "2026-05-04T12:02:04Z",
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1899
-          }
+            "stars": 1901
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "matanolabs",
             "repo": "matano",
             "stars": 1694
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 458
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "soctalk",
             "repo": "soctalk",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "ExabeamLabs",
             "repo": "CIMLibrary",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         }
       ],
       "title": "Logging, Monitoring & Data Sources"
@@ -468,8 +497,9 @@
             "last_commit": "2023-09-02T23:27:00Z",
             "owner": "jatrost",
             "repo": "awesome-kubernetes-threat-detection",
-            "stars": 410
-          }
+            "stars": 411
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "0x4D31",
             "repo": "detection-and-response-pipeline",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         },
         {
           "node_type": "item",
@@ -499,14 +530,15 @@
             "owner": "inodee",
             "repo": "threathunting-spl",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T21:27:33.500Z"
         }
       ],
       "title": "General Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:03:33.632Z",
+    "last_updated": "2026-08-28T21:27:33.500Z",
     "original_repository_info": {
       "archived": false,
       "id": 298706027,
