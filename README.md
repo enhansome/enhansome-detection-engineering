@@ -36,9 +36,9 @@ All contributions are welcome, please carefully review the [contributing guideli
 ## Detection Content & Signatures
 
 * [Sigma Rules](https://github.com/SigmaHQ/sigma) ⭐ 10,956 | 🐛 209 | 🌐 Python | 📅 2026-08-18 - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
-* [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,695 | 🐛 234 | 🌐 Python | 📅 2026-08-28 - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
+* [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) ⭐ 2,695 | 🐛 234 | 🌐 Python | 📅 2026-08-29 - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
 * [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) ⭐ 1,732 | 🐛 0 | 🌐 Python | 📅 2026-07-23 - A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.
-* [Splunk Security Content](https://github.com/splunk/security_content) ⭐ 1,678 | 🐛 13 | 🌐 Python | 📅 2026-08-28 - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
+* [Splunk Security Content](https://github.com/splunk/security_content) ⭐ 1,679 | 🐛 13 | 🌐 Python | 📅 2026-08-28 - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 * [Elastic Endpoint Behavioral Rules](https://github.com/elastic/protections-artifacts/tree/main/behavior/rules) ⭐ 1,484 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's endpoint behavioral (prevention) rules written in EQL, natively for the Elastic endpoint agent.
 * [Elastic Yara Signatures](https://github.com/elastic/protections-artifacts/tree/main/yara/rules) ⭐ 1,484 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's YARA signatures, which run on the Elastic endpoint agent.
 * [Elastic Endpoint Ransomware Artifact](https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua) ⭐ 1,484 | 🐛 6 | 🌐 YARA | 📅 2026-08-20 - Elastic's ranswomware artifact, which runs on the Elastic endpoint agent.
@@ -100,4 +100,4 @@ All contributions are welcome, please carefully review the [contributing guideli
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

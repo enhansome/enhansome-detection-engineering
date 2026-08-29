@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for developing alerting and detection strategies for incident response.",
+            "homepage": null,
             "id": 114705352,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-08T18:00:25Z",
+            "open_issues": 3,
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 902
+            "stars": 902,
+            "topics": [
+              "octo-correct-managed"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -26,12 +33,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic Adversarial Log Objects: A Framework for synthentic log generation",
+            "homepage": null,
             "id": 421451885,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-11T18:45:51Z",
+            "open_issues": 2,
             "owner": "splunk",
             "repo": "salo",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -42,12 +54,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents",
+            "homepage": "https://docs.threatrecall.ai/",
             "id": 1203202149,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T20:23:51Z",
+            "open_issues": 13,
             "owner": "ThreatRecall",
             "repo": "zettelforge",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "agentic-memory",
+              "ai-agent",
+              "claude-code",
+              "cti",
+              "cybersecurity",
+              "knowledge-graph",
+              "langchain",
+              "llm",
+              "llm-memory",
+              "mcp",
+              "mcp-server",
+              "mitre-attack",
+              "osint",
+              "python",
+              "rag",
+              "soc-automation",
+              "stix",
+              "threat-hunting",
+              "threat-intelligence",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -58,12 +96,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted AI-assisted CTI-to-detection workbench for ATT&CK mapping, IOC/CVE intelligence, Threat Radar, malware triage, Attack Simulation, and SIEM validation.",
+            "homepage": "https://1200km.com/adversarygraph/",
             "id": 1253118396,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T09:13:15Z",
+            "open_issues": 1,
             "owner": "anpa1200",
             "repo": "adversarygraph",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ai-security",
+              "analyst-workflow",
+              "att-ck-navigator",
+              "attack-mapping",
+              "attack-navigator",
+              "cti",
+              "cyber-threat-intelligence",
+              "cybersecurity",
+              "detection-engineering",
+              "docker",
+              "fastapi",
+              "llm",
+              "mitre-attack",
+              "navigator",
+              "react",
+              "self-hosted",
+              "stix",
+              "threat-hunting",
+              "threat-intelligence",
+              "ttp-mapping"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         }
@@ -80,12 +144,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Sigma Rule Repository",
+            "homepage": "https://sigmahq.io/",
             "id": 77276660,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T23:42:38Z",
+            "open_issues": 209,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10956
+            "stars": 10956,
+            "topics": [
+              "elasticsearch",
+              "ids",
+              "logging",
+              "monitoring",
+              "security",
+              "siem",
+              "signatures",
+              "splunk",
+              "sysmon"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -96,12 +175,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.elastic.co/guide/en/security/current/detection-engine-overview.html",
             "id": 273084758,
             "language": "Python",
-            "last_commit": "2026-08-28T17:22:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:40:54Z",
+            "open_issues": 234,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2695
+            "stars": 2695,
+            "topics": [
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -112,12 +199,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules. ",
+            "homepage": "https://kqlquery.com",
             "id": 498037475,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-23T17:56:56Z",
+            "open_issues": 0,
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1732
+            "stars": 1732,
+            "topics": [
+              "azure",
+              "blueteam",
+              "cybersecurity",
+              "defender-for-endpoint",
+              "dfir",
+              "infosec",
+              "kql",
+              "mde",
+              "mdi",
+              "misp",
+              "security",
+              "sentinel",
+              "threat-hunting",
+              "vulnerability-management",
+              "zero-day"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -128,12 +236,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Splunk Security Content",
+            "homepage": "https://research.splunk.com",
             "id": 162346001,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:01:45Z",
+            "open_issues": 13,
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1678
+            "stars": 1679,
+            "topics": [
+              "cicd",
+              "cybersecurity",
+              "detection",
+              "detection-engineering",
+              "engineering",
+              "responses",
+              "splunk"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -144,12 +265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elastic Security detection content for Endpoint",
+            "homepage": "https://www.elastic.co/security/endpoint-security",
             "id": 495971687,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T10:09:02Z",
+            "open_issues": 6,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1484
+            "stars": 1484,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -160,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elastic Security detection content for Endpoint",
+            "homepage": "https://www.elastic.co/security/endpoint-security",
             "id": 495971687,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T10:09:02Z",
+            "open_issues": 6,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1484
+            "stars": 1484,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -176,12 +307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elastic Security detection content for Endpoint",
+            "homepage": "https://www.elastic.co/security/endpoint-security",
             "id": 495971687,
             "language": "YARA",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T10:09:02Z",
+            "open_issues": 6,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1484
+            "stars": 1484,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -192,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of example YARA-L rules for use within Google Security Operations",
+            "homepage": "https://cloud.google.com/security/products/security-operations",
             "id": 331114594,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T21:02:46Z",
+            "open_issues": 13,
             "owner": "chronicle",
             "repo": "detection-rules",
-            "stars": 513
+            "stars": 513,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -208,12 +349,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Built-in Panther detection rules and policies",
+            "homepage": "https://panther.com/",
             "id": 215863078,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:42:45Z",
+            "open_issues": 12,
             "owner": "panther-labs",
             "repo": "panther-analysis",
-            "stars": 464
+            "stars": 464,
+            "topics": [
+              "cybersecurity",
+              "python",
+              "security",
+              "siem"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -224,12 +375,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚨ATTENTION🚨 The Security Stack Mappings have migrated to the Center’s Mappings Explorer project. See README below. This repository is kept here as an archive.",
+            "homepage": "https://center-for-threat-informed-defense.github.io/mappings-explorer/",
             "id": 314027510,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-03T16:45:24Z",
+            "open_issues": 16,
             "owner": "center-for-threat-informed-defense",
             "repo": "security-stack-mappings",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "aws",
+              "azure",
+              "cloud",
+              "gcp",
+              "mitre-attack",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -240,12 +403,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP, FINOS & SigmaHQ. MIT-licensed.",
+            "homepage": "https://agentthreatrule.org",
             "id": 1176619039,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:18Z",
+            "open_issues": 65,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 376
+            "stars": 376,
+            "topics": [
+              "agent-security",
+              "agent-threat-rules",
+              "ai-security",
+              "garak",
+              "llm-security",
+              "mcp-security",
+              "owasp",
+              "owasp-agentic",
+              "prompt-injection",
+              "sigma-rules",
+              "threat-detection"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -256,12 +436,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Community Security Analytics provides a set of community-driven audit & threat queries for Google Cloud",
+            "homepage": null,
             "id": 446990881,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T14:47:30Z",
+            "open_issues": 4,
             "owner": "GoogleCloudPlatform",
             "repo": "security-analytics",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "audit-logs",
+              "bigquery",
+              "chronicle",
+              "cloud-security-command-center",
+              "gcp",
+              "google-cloud",
+              "log-analytics",
+              "logging",
+              "network-analysis",
+              "network-logs",
+              "security",
+              "security-operations",
+              "threat-detection"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -272,12 +471,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete Sigma detection engineering toolkit: parser, linter, evaluator, correlation engine, conversion framework, streaming daemon, MCP and LSP servers :crab:",
+            "homepage": "https://rsigma.io/",
             "id": 1154854390,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:50:25Z",
+            "open_issues": 34,
             "owner": "timescale",
             "repo": "rsigma",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "backend",
+              "converter",
+              "correlation",
+              "detection",
+              "fibratus",
+              "linter",
+              "lsp",
+              "lynxdb",
+              "mcp",
+              "parser",
+              "postgres",
+              "runtime",
+              "rust",
+              "siem",
+              "sigma",
+              "stream-processing",
+              "timescaledb"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -288,12 +510,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anvilogic Forge",
+            "homepage": "https://www.anvilogic.com",
             "id": 753190239,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-03-31T12:19:58Z",
+            "open_issues": 0,
             "owner": "anvilogic-forge",
             "repo": "armory",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "detection",
+              "detection-engineering",
+              "snowflake",
+              "splunk",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -304,12 +537,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Splunk SPL hunt queries that can be used to detect the latest vulnerability exploitation attempts & subsequent compromise",
+            "homepage": null,
             "id": 480727617,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-02T13:09:14Z",
+            "open_issues": 0,
             "owner": "west-wind",
             "repo": "Threat-Hunting-With-Splunk",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "arcanedoor",
+              "bpfdoor",
+              "cve-2024-20353",
+              "cve-2024-20359",
+              "cve-2026-12569",
+              "detection",
+              "detection-engineering",
+              "esxi-malware",
+              "esxi-ransomware",
+              "line-dancer",
+              "line-runner",
+              "ptc-windchill-and-flexplm",
+              "rtm-locker",
+              "splunk",
+              "text4shell",
+              "vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -320,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 531174555,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-16T09:59:46Z",
+            "open_issues": 2,
             "owner": "ExabeamLabs",
             "repo": "Content-Library-CIM2",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -336,12 +596,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sigma Queries turned into KQL for Defender using pysigma - Automated",
+            "homepage": "https://kaibersec.com",
             "id": 1096888045,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-23T03:51:46Z",
+            "open_issues": 0,
             "owner": "Khadinxc",
             "repo": "Sigma2KQL",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "detection-engineering",
+              "kql",
+              "microsoftsentinel",
+              "mitre-attack",
+              "threat-detection",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -352,12 +624,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TerraSigma - Modern Detection Engineering for the Cloud-Native SIEM Microsoft Sentinel",
+            "homepage": "https://kaibersec.com",
             "id": 1097373255,
             "language": "HCL",
+            "license": null,
             "last_commit": "2026-08-23T04:20:04Z",
+            "open_issues": 0,
             "owner": "Khadinxc",
             "repo": "TerraSigma",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "cybersecurity",
+              "detection-engineering",
+              "devops",
+              "kql",
+              "microsoftsentinel",
+              "mitre-attack",
+              "python",
+              "sigma",
+              "terraform",
+              "threat-hunting",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         }
@@ -374,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy & Flexible Alerting With ElasticSearch",
+            "homepage": "https://elastalert.readthedocs.org",
             "id": 27091760,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T06:30:10Z",
+            "open_issues": 1401,
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7987
+            "stars": 7987,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -390,12 +684,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23]",
+            "homepage": null,
             "id": 60705895,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:55:46Z",
+            "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2811
+            "stars": 2811,
+            "topics": [
+              "anomaly-detection",
+              "datasets",
+              "log-analysis",
+              "log-intelligence",
+              "log-parsing",
+              "logs",
+              "unstructured-logs"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -406,12 +713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best Practice Auditd Configuration",
+            "homepage": null,
             "id": 150223220,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-04T12:02:04Z",
+            "open_issues": 18,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1901
+            "stars": 1901,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -422,12 +734,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS",
+            "homepage": "https://matano.dev",
             "id": 510034344,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-08T04:14:13Z",
+            "open_issues": 55,
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1694
+            "stars": 1694,
+            "topics": [
+              "alerting",
+              "apache-iceberg",
+              "aws",
+              "aws-security",
+              "big-data",
+              "cloud",
+              "cloud-native",
+              "cloud-security",
+              "cybersecurity",
+              "detection-engineering",
+              "dfir",
+              "log-analytics",
+              "log-management",
+              "rust",
+              "secops",
+              "security",
+              "security-tools",
+              "serverless",
+              "siem",
+              "threat-hunting"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -438,12 +776,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source cross-platform endpoint detection engine for Windows, macOS, and Linux using ETW, ESF, eBPF, Sigma, YARA, IOCs, and ECS NDJSON alerts.",
+            "homepage": "https://docs.rustinel.io",
             "id": 1146898804,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:45:19Z",
+            "open_issues": 63,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 458
+            "stars": 458,
+            "topics": [
+              "blue-team",
+              "detection-engineering",
+              "ebpf",
+              "edr",
+              "endpoint-detection",
+              "endpoint-security",
+              "etw",
+              "incident-response",
+              "linux",
+              "linux-security",
+              "malware-detection",
+              "rust",
+              "security-monitoring",
+              "security-tools",
+              "siem",
+              "sigma",
+              "sysmon",
+              "threat-detection",
+              "windows-security",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -454,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered multi-tenant SOC automation agent using LangGraph with Wazuh, Cortex, TheHive & MISP integration",
+            "homepage": null,
             "id": 1135372712,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T08:19:38Z",
+            "open_issues": 36,
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -470,12 +839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CIM Library",
+            "homepage": null,
             "id": 503898036,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T11:40:59Z",
+            "open_issues": 1,
             "owner": "ExabeamLabs",
             "repo": "CIMLibrary",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         }
@@ -492,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources about detecting threats and defending Kubernetes systems.",
+            "homepage": null,
             "id": 609663491,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-02T23:27:00Z",
+            "open_issues": 5,
             "owner": "jatrost",
             "repo": "awesome-kubernetes-threat-detection",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -508,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ A compilation of suggested tools/services for each component in a detection and response pipeline, along with real-world examples. The purpose is to create a reference hub for designing effective threat detection and response pipelines. 👷 🏗",
+            "homepage": null,
             "id": 663150399,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-05T14:04:04Z",
+            "open_issues": 0,
             "owner": "0x4D31",
             "repo": "detection-and-response-pipeline",
-            "stars": 298
+            "stars": 298,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -524,12 +908,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Splunk code (SPL) for serious threat hunters and detection engineers.",
+            "homepage": null,
             "id": 95153461,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-15T16:42:40Z",
+            "open_issues": 0,
             "owner": "inodee",
             "repo": "threathunting-spl",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "rules",
+              "siem",
+              "spl",
+              "splunk",
+              "threat-hunting",
+              "use-case"
+            ]
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         }
@@ -538,15 +934,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:27:33.500Z",
+    "last_updated": "2026-08-29T04:32:03.018Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
+      "homepage": null,
       "id": 298706027,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-03T16:57:29Z",
+      "open_issues": 8,
       "owner": "infosecB",
       "repo": "awesome-detection-engineering",
-      "stars": 1333
+      "stars": 1333,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cybersecurity",
+        "detection-engineering",
+        "mitre",
+        "splunk",
+        "threat-detection"
+      ]
     },
     "original_repository_sha": "1a80b2df8533b8fc5129ccb96e5e7e69679512ea",
     "enhanced_repository": "enhansome/enhansome-detection-engineering",
