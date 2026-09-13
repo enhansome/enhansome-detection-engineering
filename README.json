@@ -63,7 +63,7 @@
             "open_issues": 13,
             "owner": "ThreatRecall",
             "repo": "zettelforge",
-            "stars": 60,
+            "stars": 62,
             "topics": [
               "agentic-memory",
               "ai-agent",
@@ -150,10 +150,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-07T10:54:20Z",
-            "open_issues": 203,
+            "open_issues": 205,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11030,
+            "stars": 11036,
             "topics": [
               "elasticsearch",
               "ids",
@@ -274,7 +274,7 @@
             "open_issues": 11,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1492,
+            "stars": 1494,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -295,7 +295,7 @@
             "open_issues": 11,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1492,
+            "stars": 1494,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -316,7 +316,7 @@
             "open_issues": 11,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1492,
+            "stars": 1494,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -380,11 +380,11 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:39:58Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-13T12:11:58Z",
+            "open_issues": 87,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 389,
+            "stars": 391,
             "topics": [
               "agent-security",
               "agent-threat-rules",
@@ -672,7 +672,7 @@
             "open_issues": 1401,
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7986,
+            "stars": 7985,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -693,7 +693,7 @@
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2833,
+            "stars": 2836,
             "topics": [
               "anomaly-detection",
               "datasets",
@@ -781,11 +781,11 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T12:58:51Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-13T14:47:36Z",
+            "open_issues": 57,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -827,7 +827,7 @@
             "open_issues": 23,
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 83,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:13:37.694Z",
+    "last_updated": "2026-09-13T14:56:44.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
