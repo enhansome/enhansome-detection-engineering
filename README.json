@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 904,
+            "stars": 906,
             "topics": [
               "octo-correct-managed"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 2,
             "owner": "splunk",
             "repo": "salo",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -101,7 +101,7 @@
             "id": 1253118396,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T09:13:15Z",
+            "last_commit": "2026-09-19T14:21:53Z",
             "open_issues": 1,
             "owner": "anpa1200",
             "repo": "adversarygraph",
@@ -150,10 +150,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T11:45:27Z",
-            "open_issues": 214,
+            "open_issues": 217,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11059,
+            "stars": 11062,
             "topics": [
               "elasticsearch",
               "ids",
@@ -180,11 +180,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T14:50:39Z",
-            "open_issues": 244,
+            "last_commit": "2026-09-19T13:07:55Z",
+            "open_issues": 239,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2699,
+            "stars": 2698,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -208,7 +208,7 @@
             "open_issues": 0,
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
-            "stars": 1749,
+            "stars": 1750,
             "topics": [
               "azure",
               "blueteam",
@@ -241,11 +241,11 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:55:32Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-18T22:52:39Z",
+            "open_issues": 15,
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "cicd",
               "cybersecurity",
@@ -334,7 +334,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-06T21:02:46Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "chronicle",
             "repo": "detection-rules",
             "stars": 516,
@@ -380,11 +380,11 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T11:10:34Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-19T10:54:36Z",
+            "open_issues": 99,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 393,
+            "stars": 395,
             "topics": [
               "agent-security",
               "agent-threat-rules",
@@ -476,11 +476,11 @@
             "id": 1154854390,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:48:28Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-18T18:32:33Z",
+            "open_issues": 25,
             "owner": "timescale",
             "repo": "rsigma",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "backend",
               "converter",
@@ -672,7 +672,7 @@
             "open_issues": 1401,
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7985,
+            "stars": 7984,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -693,7 +693,7 @@
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2845,
+            "stars": 2847,
             "topics": [
               "anomaly-detection",
               "datasets",
@@ -743,7 +743,7 @@
             "open_issues": 55,
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1697,
+            "stars": 1696,
             "topics": [
               "alerting",
               "apache-iceberg",
@@ -781,11 +781,11 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:20:58Z",
+            "last_commit": "2026-09-18T19:04:57Z",
             "open_issues": 42,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -827,7 +827,7 @@
             "open_issues": 23,
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 87,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:02:22.337Z",
+    "last_updated": "2026-09-19T14:30:56.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
@@ -946,7 +946,7 @@
       "open_issues": 12,
       "owner": "infosecB",
       "repo": "awesome-detection-engineering",
-      "stars": 1339,
+      "stars": 1340,
       "topics": [
         "awesome",
         "awesome-list",
