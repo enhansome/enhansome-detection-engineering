@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "octo-correct-managed"
             ]
@@ -149,11 +149,11 @@
             "id": 77276660,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T12:45:43Z",
-            "open_issues": 221,
+            "last_commit": "2026-09-26T14:35:11Z",
+            "open_issues": 226,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11090,
+            "stars": 11092,
             "topics": [
               "elasticsearch",
               "ids",
@@ -180,8 +180,8 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T15:37:34Z",
-            "open_issues": 290,
+            "last_commit": "2026-09-26T14:25:53Z",
+            "open_issues": 284,
             "owner": "elastic",
             "repo": "detection-rules",
             "stars": 2701,
@@ -380,8 +380,8 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T15:01:37Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-26T11:22:21Z",
+            "open_issues": 70,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 400,
@@ -477,7 +477,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-25T14:28:40Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "timescale",
             "repo": "rsigma",
             "stars": 144,
@@ -689,11 +689,11 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T09:24:48Z",
+            "last_commit": "2026-09-26T09:10:21Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2857,
+            "stars": 2860,
             "topics": [
               "anomaly-detection",
               "datasets",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:50:56.897Z",
+    "last_updated": "2026-09-26T14:59:58.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
@@ -946,7 +946,7 @@
       "open_issues": 13,
       "owner": "infosecB",
       "repo": "awesome-detection-engineering",
-      "stars": 1347,
+      "stars": 1346,
       "topics": [
         "awesome",
         "awesome-list",
