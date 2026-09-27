@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "octo-correct-managed"
             ]
@@ -105,7 +105,7 @@
             "open_issues": 1,
             "owner": "anpa1200",
             "repo": "adversarygraph",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "ai-security",
               "analyst-workflow",
@@ -149,11 +149,11 @@
             "id": 77276660,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T14:35:11Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-27T06:27:30Z",
+            "open_issues": 228,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11092,
+            "stars": 11108,
             "topics": [
               "elasticsearch",
               "ids",
@@ -180,11 +180,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T14:25:53Z",
-            "open_issues": 284,
+            "last_commit": "2026-09-27T13:34:53Z",
+            "open_issues": 285,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2701,
+            "stars": 2703,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -337,7 +337,7 @@
             "open_issues": 13,
             "owner": "chronicle",
             "repo": "detection-rules",
-            "stars": 516,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -380,11 +380,11 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T11:22:21Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-27T15:38:33Z",
+            "open_issues": 57,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 400,
+            "stars": 402,
             "topics": [
               "agent-security",
               "agent-threat-rules",
@@ -601,7 +601,7 @@
             "id": 1096888045,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-20T11:03:47Z",
+            "last_commit": "2026-09-27T02:47:11Z",
             "open_issues": 0,
             "owner": "Khadinxc",
             "repo": "Sigma2KQL",
@@ -629,8 +629,8 @@
             "id": 1097373255,
             "language": "HCL",
             "license": null,
-            "last_commit": "2026-09-14T13:51:05Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-27T04:17:02Z",
+            "open_issues": 1,
             "owner": "Khadinxc",
             "repo": "TerraSigma",
             "stars": 5,
@@ -689,11 +689,11 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T09:10:21Z",
+            "last_commit": "2026-09-27T09:51:00Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2860,
+            "stars": 2862,
             "topics": [
               "anomaly-detection",
               "datasets",
@@ -722,7 +722,7 @@
             "open_issues": 19,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1946,
+            "stars": 1947,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -785,7 +785,7 @@
             "open_issues": 43,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -934,7 +934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:59:58.251Z",
+    "last_updated": "2026-09-27T15:41:16.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
