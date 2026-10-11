@@ -150,10 +150,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T11:26:20Z",
-            "open_issues": 256,
+            "open_issues": 262,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11206,
+            "stars": 11214,
             "topics": [
               "elasticsearch",
               "ids",
@@ -180,11 +180,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T13:58:54Z",
-            "open_issues": 273,
+            "last_commit": "2026-10-10T22:26:21Z",
+            "open_issues": 275,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2717,
+            "stars": 2718,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -241,8 +241,8 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T07:05:35Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-11T07:07:09Z",
+            "open_issues": 25,
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1709,
@@ -274,7 +274,7 @@
             "open_issues": 10,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1497,
+            "stars": 1498,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -295,7 +295,7 @@
             "open_issues": 10,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1497,
+            "stars": 1498,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -316,7 +316,7 @@
             "open_issues": 10,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1497,
+            "stars": 1498,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -380,7 +380,7 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T12:26:46Z",
+            "last_commit": "2026-10-11T13:14:23Z",
             "open_issues": 30,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
@@ -476,11 +476,11 @@
             "id": 1154854390,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-08T21:50:05Z",
+            "last_commit": "2026-10-10T23:02:38Z",
             "open_issues": 25,
             "owner": "timescale",
             "repo": "rsigma",
-            "stars": 165,
+            "stars": 167,
             "topics": [
               "backend",
               "converter",
@@ -591,6 +591,44 @@
         },
         {
           "node_type": "item",
+          "title": "Ridgeline Detection Library",
+          "description": "Production-validated detections across nine platforms (KQL, Sigma, Splunk, Athena, PowerShell, Velociraptor, YARA, Suricata, osquery), each with triggers, false positives, tuning guidance, and validation steps. Apache-2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Production-validated detection queries and hunting artifacts across 9 platforms (KQL, Sigma, Splunk, Athena, PowerShell, Velociraptor, YARA, Suricata, osquery). Each with triggers, false positives, tuning guidance, and validation steps.",
+            "homepage": "https://ridgelinecyber.com/",
+            "id": 1246637312,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-28T08:59:11Z",
+            "open_issues": 0,
+            "owner": "ridgelinecyberdefence",
+            "repo": "Enterprise-Detection-Engineering",
+            "stars": 10,
+            "topics": [
+              "adr",
+              "azure-sentinel",
+              "blue-team",
+              "cloud-security",
+              "cyber-defense",
+              "detection-engineering",
+              "entra-id",
+              "grc",
+              "infosec",
+              "kql",
+              "mde",
+              "security-architecture",
+              "security-compliance",
+              "siem",
+              "threat-hunting",
+              "xdr"
+            ]
+          },
+          "first_seen": "2026-10-11T16:40:31.256Z"
+        },
+        {
+          "node_type": "item",
           "title": "Sigma2KQL",
           "description": "A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.",
           "children": [],
@@ -601,8 +639,8 @@
             "id": 1096888045,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-05T04:38:41Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-11T02:17:40Z",
+            "open_issues": 1,
             "owner": "Khadinxc",
             "repo": "Sigma2KQL",
             "stars": 5,
@@ -629,8 +667,8 @@
             "id": 1097373255,
             "language": "HCL",
             "license": null,
-            "last_commit": "2026-09-30T11:36:29Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-11T04:17:58Z",
+            "open_issues": 1,
             "owner": "Khadinxc",
             "repo": "TerraSigma",
             "stars": 5,
@@ -672,7 +710,7 @@
             "open_issues": 1400,
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7982,
+            "stars": 7981,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -689,11 +727,11 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T10:26:08Z",
+            "last_commit": "2026-10-11T10:37:25Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2874,
+            "stars": 2878,
             "topics": [
               "anomaly-detection",
               "datasets",
@@ -722,7 +760,7 @@
             "open_issues": 19,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1950,
+            "stars": 1951,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -934,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:15:58.467Z",
+    "last_updated": "2026-10-11T16:40:31.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
@@ -942,8 +980,8 @@
       "id": 298706027,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-01T23:08:19Z",
-      "open_issues": 14,
+      "last_commit": "2026-10-11T12:35:32Z",
+      "open_issues": 5,
       "owner": "infosecB",
       "repo": "awesome-detection-engineering",
       "stars": 1356,
@@ -957,7 +995,7 @@
         "threat-detection"
       ]
     },
-    "original_repository_sha": "b2689c566ce1bcacf5546a3da4c7e6478d048659",
+    "original_repository_sha": "828a553b4e7369c88f74c2a561f63efe2ffa988b",
     "enhanced_repository": "enhansome/enhansome-detection-engineering",
     "enhanced_repository_description": null,
     "title": "Awesome Detection Engineering with stars"
