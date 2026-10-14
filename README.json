@@ -175,11 +175,11 @@
             "id": 77276660,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T13:59:16Z",
-            "open_issues": 261,
+            "last_commit": "2026-10-14T08:40:44Z",
+            "open_issues": 260,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11229,
+            "stars": 11239,
             "topics": [
               "elasticsearch",
               "ids",
@@ -206,11 +206,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T15:16:38Z",
-            "open_issues": 280,
+            "last_commit": "2026-10-14T14:26:05Z",
+            "open_issues": 281,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2721,
+            "stars": 2722,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -267,11 +267,11 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T18:12:22Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-14T15:36:14Z",
+            "open_issues": 20,
             "owner": "splunk",
             "repo": "security_content",
-            "stars": 1712,
+            "stars": 1714,
             "topics": [
               "cicd",
               "cybersecurity",
@@ -300,7 +300,7 @@
             "open_issues": 10,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1497,
+            "stars": 1499,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -321,7 +321,7 @@
             "open_issues": 10,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1497,
+            "stars": 1499,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -342,7 +342,7 @@
             "open_issues": 10,
             "owner": "elastic",
             "repo": "protections-artifacts",
-            "stars": 1497,
+            "stars": 1499,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -384,7 +384,7 @@
             "open_issues": 14,
             "owner": "panther-labs",
             "repo": "panther-analysis",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "cybersecurity",
               "python",
@@ -406,11 +406,11 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:09:20Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-14T11:45:38Z",
+            "open_issues": 37,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 413,
+            "stars": 415,
             "topics": [
               "agent-security",
               "agent-threat-rules",
@@ -502,11 +502,11 @@
             "id": 1154854390,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-12T18:13:25Z",
+            "last_commit": "2026-10-13T19:13:18Z",
             "open_issues": 22,
             "owner": "timescale",
             "repo": "rsigma",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "backend",
               "converter",
@@ -753,11 +753,11 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T11:26:53Z",
+            "last_commit": "2026-10-14T09:18:43Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2879,
+            "stars": 2880,
             "topics": [
               "anomaly-detection",
               "datasets",
@@ -786,7 +786,7 @@
             "open_issues": 19,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1950,
+            "stars": 1952,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -845,11 +845,11 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T14:02:22Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-14T14:35:04Z",
+            "open_issues": 60,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 504,
+            "stars": 505,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -998,7 +998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T18:22:59.580Z",
+    "last_updated": "2026-10-14T15:51:08.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
@@ -1010,7 +1010,7 @@
       "open_issues": 1,
       "owner": "infosecB",
       "repo": "awesome-detection-engineering",
-      "stars": 1360,
+      "stars": 1362,
       "topics": [
         "awesome",
         "awesome-list",
