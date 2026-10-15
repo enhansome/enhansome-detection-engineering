@@ -63,7 +63,7 @@
             "open_issues": 7,
             "owner": "ThreatRecall",
             "repo": "zettelforge",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "agentic-memory",
               "ai-agent",
@@ -175,11 +175,11 @@
             "id": 77276660,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T08:40:44Z",
-            "open_issues": 260,
+            "last_commit": "2026-10-15T01:47:18Z",
+            "open_issues": 269,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11239,
+            "stars": 11247,
             "topics": [
               "elasticsearch",
               "ids",
@@ -206,11 +206,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T14:26:05Z",
+            "last_commit": "2026-10-15T14:26:45Z",
             "open_issues": 281,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2722,
+            "stars": 2724,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -267,8 +267,8 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T15:36:14Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-15T15:14:25Z",
+            "open_issues": 22,
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1714,
@@ -406,11 +406,11 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:45:38Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-15T15:22:34Z",
+            "open_issues": 38,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "agent-security",
               "agent-threat-rules",
@@ -502,7 +502,7 @@
             "id": 1154854390,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-13T19:13:18Z",
+            "last_commit": "2026-10-15T12:32:45Z",
             "open_issues": 22,
             "owner": "timescale",
             "repo": "rsigma",
@@ -591,27 +591,6 @@
               "text4shell",
               "vulnerability"
             ]
-          },
-          "first_seen": "2026-08-28T21:27:33.500Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Exabeam Content Library",
-          "description": "Exabeam's out of the box detection content compatible with the Exabeam Common Information Model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 531174555,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-16T09:59:46Z",
-            "open_issues": 2,
-            "owner": "ExabeamLabs",
-            "repo": "Content-Library-CIM2",
-            "stars": 33,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
         },
@@ -753,7 +732,7 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T09:18:43Z",
+            "last_commit": "2026-10-15T08:54:17Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
@@ -786,7 +765,7 @@
             "open_issues": 19,
             "owner": "Neo23x0",
             "repo": "auditd",
-            "stars": 1952,
+            "stars": 1953,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -807,7 +786,7 @@
             "open_issues": 55,
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1701,
+            "stars": 1700,
             "topics": [
               "alerting",
               "apache-iceberg",
@@ -845,8 +824,8 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:35:04Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-15T14:52:28Z",
+            "open_issues": 54,
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 505,
@@ -891,7 +870,7 @@
             "open_issues": 23,
             "owner": "soctalk",
             "repo": "soctalk",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -998,7 +977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:51:08.866Z",
+    "last_updated": "2026-10-15T15:38:34.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
@@ -1007,10 +986,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-12T12:55:02Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "infosecB",
       "repo": "awesome-detection-engineering",
-      "stars": 1362,
+      "stars": 1364,
       "topics": [
         "awesome",
         "awesome-list",
