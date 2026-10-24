@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "palantir",
             "repo": "alerting-detection-strategy-framework",
-            "stars": 920,
+            "stars": 921,
             "topics": [
               "octo-correct-managed"
             ]
@@ -176,10 +176,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T03:04:45Z",
-            "open_issues": 283,
+            "open_issues": 284,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 11328,
+            "stars": 11334,
             "topics": [
               "elasticsearch",
               "ids",
@@ -206,11 +206,11 @@
             "id": 273084758,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T15:39:46Z",
-            "open_issues": 291,
+            "last_commit": "2026-10-24T03:23:02Z",
+            "open_issues": 293,
             "owner": "elastic",
             "repo": "detection-rules",
-            "stars": 2931,
+            "stars": 2937,
             "topics": [
               "threat-detection",
               "threat-hunting"
@@ -231,7 +231,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-13T05:00:18Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Bert-JanP",
             "repo": "Hunting-Queries-Detection-Rules",
             "stars": 1763,
@@ -267,8 +267,8 @@
             "id": 162346001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T15:44:05Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-23T16:18:04Z",
+            "open_issues": 22,
             "owner": "splunk",
             "repo": "security_content",
             "stars": 1719,
@@ -406,8 +406,8 @@
             "id": 1176619039,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T11:33:15Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-24T10:52:21Z",
+            "open_issues": 42,
             "owner": "Agent-Threat-Rule",
             "repo": "agent-threat-rules",
             "stars": 422,
@@ -506,7 +506,7 @@
             "open_issues": 27,
             "owner": "timescale",
             "repo": "rsigma",
-            "stars": 172,
+            "stars": 174,
             "topics": [
               "backend",
               "converter",
@@ -715,7 +715,7 @@
             "open_issues": 1400,
             "owner": "YelpArchive",
             "repo": "elastalert",
-            "stars": 7982,
+            "stars": 7981,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:33.500Z"
@@ -732,7 +732,7 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T09:07:26Z",
+            "last_commit": "2026-10-24T08:40:23Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
@@ -786,7 +786,7 @@
             "open_issues": 55,
             "owner": "matanolabs",
             "repo": "matano",
-            "stars": 1702,
+            "stars": 1703,
             "topics": [
               "alerting",
               "apache-iceberg",
@@ -825,7 +825,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T07:31:49Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 513,
@@ -977,7 +977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:46:39.605Z",
+    "last_updated": "2026-10-24T14:39:13.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
@@ -989,7 +989,7 @@
       "open_issues": 2,
       "owner": "infosecB",
       "repo": "awesome-detection-engineering",
-      "stars": 1371,
+      "stars": 1372,
       "topics": [
         "awesome",
         "awesome-list",
